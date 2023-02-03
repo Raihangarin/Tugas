@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="Lahir">06 Agustus 2007</string>
+    <string name="isi"></string>
+    <string name="Asal">Kota Malang</string>
+    <string name="Sekolah">SMK Telkom Malang</string>
+    <string name="kelas">XI RPL 3</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Narenda Wicaksono</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">$735</string>
+    <string name="dummy_photos">6 photos</string>
+</resources>
